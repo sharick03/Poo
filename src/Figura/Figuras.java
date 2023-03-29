@@ -1,0 +1,10 @@
+package Figura;
+
+/*FIGURA ES LA SUPER CLASE ABSTRACTA NO TIENE ATRIBUTOS
+  SOLO DEBE TENER UN METODO ABSTRACTO */
+public abstract class Figuras {
+
+//METODO ABSTRACTO SE CREA PERO NO LLEVA CÓDIGO POR SER ABSTRACTO
+public abstract void calcularArea();
+
+}
